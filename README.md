@@ -2,6 +2,11 @@ https://determined-kirch-d6dee8.netlify.app/
 
 
 
+sudo apt install gdal-bin 
+binary  파일을 geo2json 형태로 변환 해주는 것임!
+
+https://gdal.org/programs/ogr2ogr.html?highlight=ogr2ogr
+
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://grandstack.io/deploy-starter-netlify) [![Deploy to Vercel](https://vercel.com/button)](https://grandstack.io/deploy-starter-vercel) [![Provision Neo4j](https://grandstack.io/img/provision-neo4j.png)](https://sandbox.neo4j.com/?usecase=blank-sandbox)
 
